@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551858245328.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1772725691",
+    "id" : "47982F6B",
+    "lastKnownWriteTime" : 1551858402,
+    "last_content_update" : 1551858402215,
+    "path" : "~/GitHub/myclassRscience/0306practice.Rmd",
+    "project_path" : "0306practice.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "3,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
